@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm [Patta Nidhi] 👋</h1>
 
 <p align="center">
   💻 Full-Stack Developer | 🎙️ Voice Assistant Enthusiast 
