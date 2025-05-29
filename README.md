@@ -1,5 +1,9 @@
-👋Hi there, I'm [Your Name] 
-💻 Full-Stack Developer | 🎙️ Voice Assistant Enthusiast |
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+
+<p align="center">
+  💻 Full-Stack Developer | 🎙️ Voice Assistant Enthusiast 
+</p>
+
 ### 👨‍💻 About Me
 I'm a Computer Science student passionate about building smart, user-centric web applications.  
 Currently, I'm developing a **Voice-Powered Coding Assistant** using the **MERN stack**, enabling hands-free coding via voice commands.  
